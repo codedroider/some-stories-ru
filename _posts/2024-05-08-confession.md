@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<3"
+title: ""
 permalink: /story_1/
 date: 2024-05-08 23:05:00 +0300
 ---
