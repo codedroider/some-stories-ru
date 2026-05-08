@@ -1,3 +1,9 @@
+---
+layout: post
+title: "<3"
+permalink: /story_1/
+---
+
 # как я признался однокласснице, что мне нравится (p.s. на момент написания мне 12 лет)
 я программист, поэтому я запросто накодил признание. первая версия была написана за полчаса. <a href="https://codedroider.github.io/scuwp/?data=%3Cstyle%3Ebody%7Bbackground%3A%230a0a0a%3Bcolor%3A%23ff4d6d%3Bfont-family%3A%27Courier%20New%27%2C%20monospace%3Bdisplay%3Aflex%3Bjustify-content%3Acenter%3Balign-items%3Acenter%3Bheight%3A100vh%3Bmargin%3A0%3Boverflow%3Ahidden%7Dh1%7Bfont-size%3A2.5rem%3Btext-shadow%3A0%200%2020px%20rgba(255%2C77%2C109%2C0.5)%3Btext-align%3Acenter%7D%3C%2Fstyle%3E%3Ch1%3E%D1%82%D1%8B%20%D0%BC%D0%BD%D0%B5%20%D0%BD%D1%80%D0%B0%D0%B2%D0%B8%D1%88%D1%8C%D1%81%D1%8F%20%3C3%3C%2Fh1%3E">вот демо.</a> я был очень рад, когда она ответила ":>".
 
